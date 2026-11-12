@@ -1,0 +1,49 @@
+body {
+    background-color: #f0f4f8;
+    font-family: Arial,Sans-Serif;
+}
+.header-hobi {
+        background-color: rgb(38, 58, 58);
+    color:white;
+    width:500px;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 2px 2px 10px gray;
+}
+.tentang-hobi {
+         background-color: rgb(127, 60, 215);
+    color:white;
+    width:500px;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 2px 2px 10px gray;
+}
+.perlengkapan-box{
+     background-color: rgb(44, 76, 79);
+    color:white;
+    width:500px;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 2px 2px 10px gray;
+}
+/* Aturan Gaya Tabel */
+.Tabel-hobi{
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+}
+
+.Tabel-hobi th, .Tabel-hobi td {
+    border: 1px solid #333333;
+    padding: 8px;
+    text-align: left;
+}
+.Tabel-hobi th {
+    background-color: rgb(24, 39, 124);
+}
